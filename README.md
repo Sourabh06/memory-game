@@ -1,3 +1,3 @@
-# memory-game
+# Slideshow
 
-Simple website to play with memory
+Simple website to test memory
